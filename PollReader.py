@@ -134,7 +134,7 @@ class PollReader():
         return ((lastHarris - firstHarris), (lastTrump - firstTrump))
         pass
 
-
+#Comment for 3rd Commit
 class TestPollReader(unittest.TestCase):
     """
     Test cases for the PollReader class.
